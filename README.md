@@ -4,13 +4,16 @@ Olá, sou Josiely Oliveira, uma estudante de Análise e Desenvolvimento de Siste
 - 🐾 Apaixonada por pets e voluntária da causa animal
 - 😄 Pronomes: Ela/Dela
 
-def cute_cat():
-    cat_art = r"""
-    /\_/\  
-   ( o.o ) 
-    > ^ <
-    """
-    print("Here’s a cute kitty for you!")
-    print(cat_art)
-    
-cute_cat()
+from PIL import Image
+
+def mostrar_gatinho():
+    # Abra a imagem do gatinho (certifique-se de que o arquivo 'gatinho.jpg' está na mesma pasta)
+    try:
+        gatinho = Image.open("gatinho.jpg")
+        gatinho.show()
+        print("Aqui está seu gatinho fofo!")
+    except FileNotFoundError:
+        print("Erro: Não consegui encontrar o arquivo 'gatinho.jpg'. Verifique se ele está na mesma pasta deste código.")
+
+if __name__ == "__main__":
+    mostrar_gatinho()
