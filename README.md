@@ -1,7 +1,7 @@
 Olá! Sou Josiely Oliveira 🙋🏽‍♀️
-- 🌱 Estudante tech com interesse em desenvolvimento web
+- 💻 Estudante tech com interesse em desenvolvimento web
 - 🐾 Apaixonada por pets e voluntária da causa animal
-- 😄 Pronomes: Ela/Dela
+- 🚹 Pronomes: Ela/Dela
 
 <div style="display: flex; gap: 10px;">
     <a href="https://img.icons8.com/?size=100&id=Zp1kU5M1RFlC&format=png&color=000000" target="_blank">
