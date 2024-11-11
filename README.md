@@ -1,5 +1,4 @@
-Olá, sou Josiely Oliveira, uma estudante de Análise e Desenvolvimento de Sistemas.
-
+Olá! Sou Josiely Oliveira 🙋🏽‍♀️
 - 🌱 Estudante tech com interesse em desenvolvimento web
 - 🐾 Apaixonada por pets e voluntária da causa animal
 - 😄 Pronomes: Ela/Dela
