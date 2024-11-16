@@ -1,8 +1,3 @@
-Olá! Sou Josiely Oliveira 🙋🏽‍♀️
-- 💻 Estudante tech com interesse em desenvolvimento web
-- 🐾 Apaixonada por pets e voluntária da causa animal
-- 🚹 Pronomes: Ela/Dela
-
 <div style="display: flex; gap: 10px;">
     <a href="https://img.icons8.com/?size=100&id=Zp1kU5M1RFlC&format=png&color=000000" target="_blank">
         <img src="https://img.icons8.com/?size=100&id=Zp1kU5M1RFlC&format=png&color=000000" alt="Ícone de Gato" width="50" height="50">
@@ -63,7 +58,7 @@ Olá! Sou Josiely Oliveira 🙋🏽‍♀️
 
 ###
 
-<p align="left">✨ Creating bugs <br>📚 I'm currently learning JS, CSS, HTML<br>- 🐾 Passionate about pets and a volunteer for animal causes.</p>
+<p align="left">💻 Creating bugs <br>📚 I'm currently learning JS, CSS, HTML<br> 🐾 Passionate about pets and a volunteer for animal causesL<br> 🚹 Pronouns: She/Her</p>
 
 ###
 
