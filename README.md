@@ -51,43 +51,32 @@ Olá! Sou Josiely Oliveira 🙋🏽‍♀️
     </a>
 </div>
 
-< canvas  width =" 600 " height =" 400 " > </ canvas >  <!--cria uma tela de 600 x 400 px-->
+<h1 align="left">Hey 👋 What's up?</h1>
 
-< roteiro >
-	
-	var  tela  =  documento . querySelector ( 'canvas' ) ;  //puxa a tela do html para o javascript
-	var  brush  =  screen . getContext ( '2d' ) ;  //cria um brush 2d
+###
 
-	//Céu - Céu
-	brush . fillStyle  =  'lightblue' ;  //pega a cor azul
-	escovar . preencherRect ( 0 , 0 , 600 , 400 ) ;  //desenha um quadrado
+<p align="left">My name is Josiely and I'm a Web Developer In Progress, from Brazil.</p>
 
-	//Chão - Chão
-	brush . fillStyle  =  'green' ;  //pega a cor verde
-	escovar . preencherRect ( 0 , 395 , 600 , 5 ) ;  //desenha um quadrado
+###
 
-	function  drawCircle ( x ,  y ,  radius ,  color )  {  //função para desenhar círculos
-		brush . fillStyle  =  color ;  //pega a cor
-		escovar . começarPath ( ) ;  //inicia um caminho
-		escovar . arco ( x ,  y ,  raio ,  0 ,  2 * 3,14 ) ;  //define o tamanho
-		escovar . preencher ( ) ;  //cria o círculo
-	}
+<h2 align="left">About me</h2>
 
-	//Flor - Flor
-	drawCircle ( 300 ,  200 ,  30 ,  'marrom' ) ;  //desenha círculo marrom
-	desenharCírculo ( 300 ,  150 ,  20 ,  'amarelo' ) ;  //desenha círculo amarelo
-	desenharCírculo ( 340 , 160 ,  20 ,  '#F2C438' ) ;  //desenha círculo amarelo escuro
-	desenharCírculo ( 350 ,  200 ,  20 ,  'amarelo' ) ;  //desenha círculo amarelo
-	desenharCírculo ( 340 , 240 ,  20 ,  '#F2C438' ) ;  //desenha círculo amarelo escuro
-	desenharCírculo ( 300 ,  250 ,  20 ,  'amarelo' ) ;  //desenha círculo amarelo
-	desenharCírculo ( 260 ,  240 ,  20 ,  '#F2C438' ) ;  //desenha círculo amarelo escuro
-	desenharCírculo ( 250 , 200 ,  20 ,  'amarelo' ) ;  //desenha círculo amarelo
-	desenharCírculo ( 260 , 160 ,  20 ,  '#F2C438' ) ;  //desenha círculo amarelo escuro
+###
 
-	//Caule + Folha - Caule + Folha
-	escovar . fillStyle  =  'verdeescuro' ;  //pega a cor verde escuro
-	escovar . preencherRect ( 297 ,  270 ,  6 ,  130 ) ;  //desenha um quadrado
+<p align="left">✨ Creating bugs <br>📚 I'm currently learning JS, CSS, HTML<br>- 🐾 Passionate about pets and a volunteer for animal causes.</p>
 
-	desenharCírculo ( 313 ,  315 ,  10 ,  'verde' ) ;  //desenha círculo verde
+###
 
-</ script >
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
