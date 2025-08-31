@@ -58,7 +58,7 @@
 
 ###
 
-<p align="left">💻 Creating bugs <br>🐾 Passionate about pets and a volunteer for animal causesL<br> 🚹 Pronouns: She/Her</p>
+<p align="left">💻 Creating bugs <br>🐾 Passionate about pets and a volunteer for animal causes<br> 🚹 Pronouns: She/Her</p>
 
 ###
 
