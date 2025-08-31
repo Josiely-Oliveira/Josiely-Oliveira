@@ -50,7 +50,7 @@
 
 ###
 
-<p align="left">My name is Josiely and I'm a Web Developer In Progress, from Brazil.</p>
+<p align="left">My name is Josiely and I'm a Developer In Progress, from Brazil.</p>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<p align="left">💻 Creating bugs <br>📚 I'm currently learning JS, CSS, HTML<br> 🐾 Passionate about pets and a volunteer for animal causesL<br> 🚹 Pronouns: She/Her</p>
+<p align="left">💻 Creating bugs <br>🐾 Passionate about pets and a volunteer for animal causesL<br> 🚹 Pronouns: She/Her</p>
 
 ###
 
